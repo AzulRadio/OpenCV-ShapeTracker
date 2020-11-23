@@ -3,14 +3,15 @@
 ##Intro
 This is an attempt to track a special pattern with traditional CV methods. It didn't achieve an satisfying outcomes. Thus we went to worship the almighty machine learning.
 
-![The special pattern](https://github.com/AzulRadio/OpenCV-ShapeTracker/Resource/armor_board.png)
+![The special pattern](https://github.com/AzulRadio/OpenCV-ShapeTracker/blob/master/Resource/armor_board.png)
+
 Armor board for Robomaster, the pattern we are tracking.
 <br>
-Thoughtful words:
 >Not good... at all.
 
-![gray](https://github.com/AzulRadio/OpenCV-ShapeTracker/Resource/demo_gray.png)
-![output](https://github.com/AzulRadio/OpenCV-ShapeTracker/Resource/demo_output.png)
+<img src="/Resource/demo_gray.png" alt="gray" width="500"/>
+
+<img src="/Resource/demo_output.png" alt="output" width="500"/>
 <br>
 
 Still, I think it's worth the effort to record what we have done.
