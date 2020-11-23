@@ -1,6 +1,6 @@
-#ShapeTracker
+# ShapeTracker
 
-##Intro
+## Intro
 This is an attempt to track a special pattern with traditional CV methods. It didn't achieve an satisfying outcomes. Thus we went to worship the almighty machine learning.
 
 ![The special pattern](https://github.com/AzulRadio/OpenCV-ShapeTracker/blob/master/Resource/armor_board.png)
@@ -9,14 +9,12 @@ Armor board for Robomaster, the pattern we are tracking.
 <br>
 >Not good... at all.
 
-<img src="/Resource/demo_gray.png" alt="gray" width="500"/>
 
-<img src="/Resource/demo_output.png" alt="output" width="500"/>
 <br>
 
 Still, I think it's worth the effort to record what we have done.
 
-##Description
+## Description
 - tracking.py
 This is the main script. 
 - noise_generator.py
@@ -25,7 +23,7 @@ Someone wants me to test how the model works under noisy conditions.
 - luminance_balance.py
 Tranditional CV methods are highly sensitive to luminance. So I read a paper about luminance balance and implemented one of them.
 
-##Processing steps
+## Processing steps
 1. read image from camera.
 2. RGB to grayscale.
 3. Add noise, guassian and sp available.
