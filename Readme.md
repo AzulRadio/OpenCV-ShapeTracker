@@ -9,6 +9,14 @@ Armor board for Robomaster, the pattern we are tracking.
 <br>
 >Not good... at all.
 
+gray:
+
+<img width="400" src="https://github.com/AzulRadio/OpenCV-ShapeTracker/blob/master/Resource/demo_gray.png"/>
+
+output:
+
+<img width="400" src="https://github.com/AzulRadio/OpenCV-ShapeTracker/blob/master/Resource/demo_output.png"/>
+
 
 <br>
 
